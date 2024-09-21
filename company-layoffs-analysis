@@ -1,1 +1,30 @@
+PROJECT OVERVIEW :
+
+This project involves analyzing a dataset containing information on company layoffs to uncover trends, patterns, and insights. The primary goal is to identify factors that contribute to layoffs and to understand how different industries, company sizes, and economic conditions influence layoff trends.
+
+
+DATA SET:
+The dataset used for this analysis was sourced from GITHUB and includes various attributes such as:
+Company Name
+Industry
+Total laid off
+Laid off percentage
+Layoff Date
+Location
+Stage
+Country
+Date
+Funds raised in millioins
+
+
+OBJECTIVE :
+A) Exploratory Data Analysis (EDA): To perform an in-depth analysis of the dataset to identify key trends, such as the industries most affected by layoffs, time periods with the highest layoff rates, and geographical patterns.
+Insights Generation: To understand the relationship between company size, industry, and the likelihood of layoffs.
+B)Data Visualization: To create visual representations of the data that highlight significant trends and insights.
+C) SQL Queries: To extract, filter, and analyze data efficiently using SQL.
+
+TOOLS USED:
+MySql: For data cleaning and manipulation.
+SQL: For querying the dataset and performing in-depth data analysis.
+Tableau/Public: For creating interactive dashboards and visualizations 
 
