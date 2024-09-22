@@ -1,0 +1,36 @@
+*PROJECT OVERVIEW :
+
+This project involves analyzing a dataset containing information on data professionals to uncover trends, patterns, and insights. The primary goal is to identify factors that contribute to layoffs and to understand how different industries, company sizes, and economic conditions influence layoff trends.
+
+
+*DATA SET:
+The dataset used for this analysis was sourced from GITHUB and includes various attributes such as:
+
+Unique ID
+Email
+Date Taken
+Time Taken
+Time Spent
+Job Title
+Did you switch careers in Data?
+Current year salary
+What industry do you work in?
+Favourite Programming language
+Worklife balance rating
+Salary satisfaction rating
+Current position satisfcation rating
+upward mobility
+What do you look in a new job?
+Gender
+Age
+Country
+Ethinicty
+
+*OBJECTIVE :
+A) Data cleaning : To collect ,sort,filter raw data and check data quality by removing duplicates,erros and filling missing data.
+B) Data Visualization: To create visual representations of the data that highlight significant trends and insights.
+
+
+*TOOLS USED:
+Power BI: For data cleaning and manipulation.
+Power BI: For creating interactive dashboards and visualizations 
